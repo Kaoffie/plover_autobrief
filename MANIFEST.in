@@ -1,0 +1,2 @@
+exclude plover_autobrief/*_rc.py
+recursive-include plover_autobrief/resources *

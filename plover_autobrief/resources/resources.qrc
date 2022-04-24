@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/autobrief">
+    <file>pin.svg</file>
+    <file>settings.svg</file>
+    <file>survey.svg</file>
+  </qresource>
+</RCC>
